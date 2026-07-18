@@ -37,3 +37,9 @@ All examples use fictional systems and invented content. The methodology is orig
 ---
 
 *Maintained by [Graham DeNoyer](https://github.com/grahamdeno). Part of a set covering the full delivery path: [Delivery Planning Framework](https://github.com/grahamdeno/delivery-planning-framework) · [User Engagement Playbook](https://github.com/grahamdeno/user-engagement-playbook) · [Decision Communication](https://github.com/grahamdeno/decision-communication) · [AI Delivery Toolkit](https://github.com/grahamdeno/ai-delivery-toolkit).*
+
+## License
+
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Share and adapt freely with attribution, for noncommercial use, under the same license.
+For commercial licensing, contact me via [LinkedIn](https://www.linkedin.com/in/grahamdenoyer/).

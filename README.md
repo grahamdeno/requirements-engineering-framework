@@ -22,6 +22,7 @@ Requirements are the instructions a team builds from. When they're vague, the te
 ## Worked Example
 
 [examples/worked-example-fleet-maintenance.md](examples/worked-example-fleet-maintenance.md) runs a full EPIC through the framework using a fictional municipal fleet-maintenance system replacing a legacy application. Real structure, invented content.
+
 [examples/worked-example-epic-decomposition.md](examples/worked-example-epic-decomposition.md) runs one EPIC through the full six-step process for a fictional municipal fleet program. Real structure, invented content.
 
 ## Design Principles
